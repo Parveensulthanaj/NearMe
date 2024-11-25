@@ -64,6 +64,7 @@ google.html
 </html>
 
 place1.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
