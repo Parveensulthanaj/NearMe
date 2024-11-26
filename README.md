@@ -52,11 +52,11 @@ google.html
 <img src="Screenshot 2024-11-24 200233.png" usemap="#image-map">
 
 <map name="image-map">
-    <area target="" alt="tiruvannamalai" title="tiruvannamalai" href="file:///C:/Users/mouli/NearMe/legend/mapapp/static/place1.html" coords="560,540,692,531,706,600,575,601" shape="poly">
-    <area target="" alt="pandithupattu" title="pandithupattu" href="file:///C:/Users/mouli/NearMe/legend/mapapp/static/place5.html" coords="311,590,432,586,432,644,315,652" shape="poly">
-    <area target="" alt="nedungavadi" title="nedungavadi" href="file:///C:/Users/mouli/NearMe/legend/mapapp/static/place3.html" coords="103,482,218,481,210,529,113,531" shape="poly">
-    <area target="" alt="ganaladi" title="ganaladi" href="file:///C:/Users/mouli/NearMe/legend/mapapp/static/place2.html" coords="900,301,994,299,992,359,912,362" shape="poly">
-    <area target="" alt="nookambadi" title="nookambadi" href="file:///C:/Users/mouli/NearMe/legend/mapapp/static/place4.html" coords="800,210,902,210,902,267,813,270" shape="poly">
+    <area target="" alt="tiruvannamalai" title="tiruvannamalai" href="http://127.0.0.1:8000/static/place1.html" coords="560,540,692,531,706,600,575,601" shape="poly">
+    <area target="" alt="pandithupattu" title="pandithupattu" href="http://127.0.0.1:8000/static/place5.html" coords="311,590,432,586,432,644,315,652" shape="poly">
+    <area target="" alt="nedungavadi" title="nedungavadi" href="http://127.0.0.1:8000/static/place3.html" coords="103,482,218,481,210,529,113,531" shape="poly">
+    <area target="" alt="ganaladi" title="ganaladi" href="http://127.0.0.1:8000/static/place2.html" coords="900,301,994,299,992,359,912,362" shape="poly">
+    <area target="" alt="nookambadi" title="nookambadi" href="http://127.0.0.1:8000/static/place4.html" coords="800,210,902,210,902,267,813,270" shape="poly">
 </map>
         </div>
     </div>
@@ -364,17 +364,12 @@ place5.html
 
 ## OUTPUT
 
-![alt text](<google map1.png>)
-![alt text](googlemap2.png)
-![alt text](place1.html.png)
-![alt text](place2.html.png)
-![alt text](place3.html.png)
-![alt text](place4.html.png)
-![alt text](place5.html.png)
-
-
-
-
+![alt text](<my town.png>)
+![alt text](place1.html-1.png)
+![alt text](place2.html-1.png)
+![alt text](place3.html-1.png)
+![alt text](place4.html-1.png)
+![alt text](place5.html-1.png)
 
 
 ## RESULT
